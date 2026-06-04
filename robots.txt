@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pontual-reparos-de-calhas.netlify.app/sitemap.xml
