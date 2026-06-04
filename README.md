@@ -23,6 +23,14 @@ Site profissional para Pontual Reparos de Calhas com layout pronto para publica�
 - Design responsivo para celular, tablet e desktop
 - Metadados SEO para ajudar na indexação
 
+## Informações de contato
+
+- Telefone: (43) 99937-8092
+- WhatsApp: https://wa.me/5543999378092
+- E-mail: contato@pontualcalhas.com.br
+- CNPJ: 48.479.862/0001-75
+- Endereço: Rua Almirante Alexandrino, Afonso Pena — CEP 83040-420, São José dos Pinhais - PR
+
 ## Publicação online
 
 ### 1) Usar GitHub Pages
